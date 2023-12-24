@@ -1,4 +1,4 @@
-function [ rest_eyes ] = data_load( filename,key_words )
+function [ rest_eyes ] = data_load( filename,key_words1 )
 %	自动读取filename路径下的与key_words有关的文件
 % -- input --
 %   filename - 想要读取的文件的路径
